@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap&#39');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+--cor1: #bee9e8ff;
+--cor2: #62b6cbff;
+--cor3: #1b4965ff;
+--cor4: #cae9ffff;
+--cor5: #5fa8d3ff;
+--fonte-titulo: "Playfair Display", serif;
+--fonte-texto: "Parisienne", cursive;
+}
+
+body{
+background-color: var(--cor1);
+font-family: var(--fonte-texto);
+}
+
+h1{
+background-color: rgb(75, 154, 245);
+}
+
+
+
+
+
+
+
